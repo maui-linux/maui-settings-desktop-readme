@@ -1,0 +1,14 @@
+Source: maui-settings-desktop-readme
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: maui-settings-desktop-readme
+Architecture: all
+Conflicts: kubuntu-settings-desktop
+Replaces: netrunner-artwork (<< 1.1.43), plasma-desktopthemes-artwork, netrunner-default-settings (<< 1.6.1)
+Breaks: netrunner-artwork (<< 1.1.43), plasma-desktopthemes-artwork, netrunner-default-settings (<< 1.6.1)
+Description: Readme desktop icons
+  This package provides the default readme desktop icon of Maui.

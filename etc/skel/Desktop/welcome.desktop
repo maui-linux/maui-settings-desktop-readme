@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=firefox http://www.mauilinux.org/readme-maui-3
+Exec=firefox http://www.mauilinux.org/readme-maui-1703
 Icon=help-about
 Name=Readme
 NoDisplay=false
